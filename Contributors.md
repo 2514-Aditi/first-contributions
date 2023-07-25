@@ -81,6 +81,7 @@
 - [Ukpa Uchechi](https://github.com/uchechiukpa)
 - [Siddesh Sasane](https://github.com/Siddesh42)
 - [Apoorva Mamindla](https://github.com/ApoorvaM16)
+- [Aditi Nadiger](https://github.com/2514-Aditi)
 - [Uday Surya](https://github.com/udaySuryaP)
 - [Collins Ikechukwu](https://github.com/devcollinss)
 - [Sagar Shrivastava](https://github.com/learner-sagar)
