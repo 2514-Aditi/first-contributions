@@ -5537,6 +5537,7 @@
   MadKingWorks
 - Zhang Kai
 - [*Nicki Stylez*] (https://github.com/anickacodes)
+- [Raul Bazan](https://github.com/RaulBSanchez)
 - [Bushido] (https://github.com/Bushido2404)
 - [Pam] (https://github.com/patacsilpam)
 - [Kacper] (https://github.com/kaspi174)
